@@ -1,5 +1,6 @@
 # Aws_cloud_project
-<a href="https://github.com/hemambujamV/Aws_cloud_project/blob/master/Movielist.png"><img src="https://github.com/hemambujamV/Aws_cloud_project/blob/master/Movielist.png" title="MyTitle" halign="right" height="60" /></a>
+<a href="https://github.com/hemambujamV/Aws_cloud_project/blob/master/Movielist.png"><img src="https://github.com/hemambujamV/Aws_cloud_project/blob/master/Movielist.png" title="MyTitle" halign="right" height="60" />
+<img src="https://github.com/hemambujamV/Aws_cloud_project/blob/master/Architecture.PNG" title="My Architecture" halign="left" height="60" /></a>
 Website
 ==================
 
