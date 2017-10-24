@@ -1,10 +1,10 @@
 # Aws_cloud_project
 <a href="http://www.potobooth.com:3000/"><img src="http://www.potobooth.com:3000/assets/spartans-logo.png" alt="Poto Booth logo" title="Poto Booth" align="right" height="60" /></a>
 
-Poto Booth Website
+ Website
 ==================
 
-Poto booth is a cloud born 3 tier web application, that provides the end users a secured environment to upload, download, view and modify their image files in cloud. This application is entirely build on Amazon Web Services (AWS) like EC2, ELB, Lambda, AutoScaling Group, RDS (PostgreSQL), CloudFront, S3, S3 Transfer Acceleration, R53, CloudWatch, SNS and Route 53.
+Movei is a cloud born 3 tier web application, that provides the end users a secured environment to upload, download, view and modify their image files in cloud. This application is entirely build on Amazon Web Services (AWS) like EC2, ELB, Lambda, AutoScaling Group, RDS (PostgreSQL), CloudFront, S3, S3 Transfer Acceleration, R53, CloudWatch, SNS and Route 53.
 
 [![Poto Booth demo](https://i.imgur.com/Og6wFgh.png)](https://i.imgur.com/uFTjoy3.png)
 
