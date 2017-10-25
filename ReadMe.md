@@ -4,7 +4,7 @@
 Website
 ==================
 
-Movei is a cloud born 3 tier web application, that provides the end users a secured environment to upload, download, view and modify their image files in cloud. This application is entirely build on Amazon Web Services (AWS) like EC2, ELB, Lambda, AutoScaling Group, RDS (PostgreSQL), CloudFront, S3, S3 Transfer Acceleration, R53, CloudWatch, SNS and Route 53.
+Movie Recommendation System is a cloud-born 3 tier web application, that provides the end users a secured environment to upload, download, view and modify their image files in cloud. This application is entirely build on Amazon Web Services (AWS) like EC2, ELB, Lambda, AutoScaling Group, RDS (PostgreSQL), CloudFront, S3, S3 Transfer Acceleration, R53, CloudWatch, SNS and Route 53.
 
 ## Table of content
 
