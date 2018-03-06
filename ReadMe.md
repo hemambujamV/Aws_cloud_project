@@ -4,7 +4,7 @@
 Website
 ==================
 
-Movie Recommendation System is a cloud-born 3 tier web application, that provides the end users a secured environment to upload, download, view and modify their image files in cloud. This application is entirely build on Amazon Web Services (AWS) like EC2, ELB, Lambda, AutoScaling Group, RDS (PostgreSQL), CloudFront, S3, S3 Transfer Acceleration, R53, CloudWatch, SNS and Route 53.
+Movie Recommendation System is a 3 tier web application, that provides the end users a secured environment to upload, download, view and modify their image files in cloud. This application is entirely build on Amazon Web Services (AWS) leveraging their EC2, ELB, Lambda, AutoScaling Group, RDS (PostgreSQL), CloudFront, S3, S3 Transfer Acceleration, R53, CloudWatch, SNS and Route 53.
 
 ## Table of content
 
@@ -32,8 +32,6 @@ Movie Recommendation System is a cloud-born 3 tier web application, that provide
 
 ### Professor and ISA 
 Porfessor: [Mr.SANJAY GARJE](https://www.linkedin.com/in/sanjaygarje/)
-
-ISA:  [DIVYANKITHA Urs](https://www.linkedin.com/in/divyankithaurs/)
 
 ### Student Name
 [Hemambujam Veeraraghavan] (https://www.linkedin.com/in/hemambujam-veeraraghavan-a34415bb/)
@@ -84,7 +82,7 @@ Movie recommendation system is a cloud born 3 tier web application, that provide
 
 ## Links
 
-* [Web site](http://www.awscloud.com)
+* [Reference Website](http://www.awscloud.com)
 * [Documentation](https://github.com/hemambujamV/Aws_cloud_project/blob/master/Project1_cmpe281.docx)
 * [Source code] (https://github.com/hemambujamV/Aws_cloud_project)
 
